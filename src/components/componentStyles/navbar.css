@@ -1,0 +1,12 @@
+.navbar-nav {
+    flex-direction: row;
+    /* justify-content: flex-start; */
+  }
+
+  .navbar-brand{
+    font-size: x-large;
+  }
+  .nav-item{
+    padding-left: 2em;
+    font-size: larger;
+  }

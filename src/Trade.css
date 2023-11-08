@@ -1,0 +1,10 @@
+*{
+    background-color: black;
+}
+
+.tradingContainer{
+    margin: 5em 30% 10em 30%;
+}
+.tradeButton{
+    margin-top: 2em;
+}

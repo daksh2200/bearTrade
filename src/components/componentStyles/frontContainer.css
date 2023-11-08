@@ -1,0 +1,53 @@
+.moto{
+    margin-right: 50%;
+    padding: 1em;
+    font-size: 300%;
+    color: rgb(163, 237, 212);
+    background-color: transparent;
+}
+.moto-2{
+    margin-top: 2rem;
+    margin-right: 60%;
+    padding: 1em;
+    color: rgba(255, 255, 255, 0.598);
+    background-color: transparent;
+}
+.firstContainer{
+    background-image: url(bgimage.jpg);
+    background-size:cover;
+    height: 35em;
+}
+
+.tradeButton{
+    margin-left: 3em;
+    width: 8em;
+    height: 3em;
+    font-size: 120%;
+}
+
+.secondContainer{
+    background-color: black;
+    
+ } 
+.secondContainer h1{
+    color: rgba(255, 255, 255, 0.598);
+    text-align: center;
+    padding: 5% 10% 0% 10%;
+    font-size: 450%;
+}
+.secondContainer h2{
+    padding-bottom: 2em;
+    text-align: center;
+    font-size: 120%; 
+    color: rgba(255, 255, 255, 0.957);
+}
+.graphimg{
+    width: 40%;
+    padding: 2em 2em 8em 2em;
+}
+.logo{
+    margin-left: 15%;
+    width: 45%;
+    padding: 2em 2em 8em 2em;
+}
+
